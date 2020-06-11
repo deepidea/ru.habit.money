@@ -1,1 +1,1 @@
-# ru.habit.money
+# Money Habit site
